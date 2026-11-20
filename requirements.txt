@@ -1,0 +1,11 @@
+# Core Data Analysis & Numerical Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
